@@ -1,0 +1,6 @@
+c:\users\mili\documents\visual studio 2013\Projects\SignalRSelfHost\JSClient\bin\JSClient.dll.config
+c:\users\mili\documents\visual studio 2013\Projects\SignalRSelfHost\JSClient\bin\JSClient.dll
+c:\users\mili\documents\visual studio 2013\Projects\SignalRSelfHost\JSClient\bin\JSClient.pdb
+c:\users\mili\documents\visual studio 2013\Projects\SignalRSelfHost\JSClient\obj\Debug\JSClient.csprojResolveAssemblyReference.cache
+c:\users\mili\documents\visual studio 2013\Projects\SignalRSelfHost\JSClient\obj\Debug\JSClient.dll
+c:\users\mili\documents\visual studio 2013\Projects\SignalRSelfHost\JSClient\obj\Debug\JSClient.pdb
